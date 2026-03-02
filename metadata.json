@@ -1,0 +1,5 @@
+{
+  "name": "AutoTrack - Araç Takip Sistemi",
+  "description": "Araçlarınızın yakıt, bakım ve giderlerini takip edebileceğiniz, önemli tarihleri hatırlatan kişisel yönetim sistemi.",
+  "requestFramePermissions": []
+}
