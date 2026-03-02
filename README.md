@@ -1,5 +1,3 @@
-
-
 ![Açıklama Yazısı](Screen/1.png)
 
 ## Run Locally
